@@ -1,0 +1,3 @@
+Id: admin
+pass: 123
+comment: no kidding
